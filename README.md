@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an e-commerce project called **storefront**
 
-- 🌱 I’m currently learning **Django**, **Python**
+- 🌱 I am currently deepening my understanding of **Django**, **Python**, **DRF**, **MySQL**
 
 - 👯 I’m looking to collaborate on **servicelink** project
 
@@ -11,7 +11,7 @@
 
 - 📫 you can reach me on **usama.alzomor@gmail.com**
 
-- 📄 Here is my updated CV [https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing)
+- 📄 Here is my updated CV [https://drive.google.com/file/CV](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing)
 
 - ⚡ Fun fact about me is this **'I am a singer'**
 
