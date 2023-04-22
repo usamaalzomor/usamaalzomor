@@ -1,7 +1,17 @@
 ### Hi there 👋
 ![image](download.png =300x300)
 
-<img src="download.png" alt="alt text" width="50" height="50">
+<img src="download.png" alt="alt text" width="40" height="40">
+<img src="CSS.png" alt="alt text" width="40" height="40">
+<img src="HTML.png" alt="alt text" width="40" height="40">
+<img src="DRF logo.png" alt="alt text" width="40" height="40">
+<img src="c.png" alt="alt text" width="40" height="40">
+<img src="database.png" alt="alt text" width="40" height="40">
+<img src="git.png" alt="alt text" width="40" height="40">
+<img src="django.jpg" alt="alt text" width="40" height="40">
+<img src="python.jpeg" alt="alt text" width="40" height="40">
+<img src="mysql.png" alt="alt text" width="40" height="40">
+
 
 <!--
 **usamaalzomor/usamaalzomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
