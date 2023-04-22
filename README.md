@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Hope you are well
+
+### I am a Python & Django Developer
+
+
 
 <div>
     <img src="c.png" alt="C language" width="40" height="40" >&nbsp;&nbsp;
