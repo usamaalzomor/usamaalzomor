@@ -18,9 +18,10 @@
     <img src="DRF logo.png" alt="DRF" width="40" height="40" >&nbsp;&nbsp;
     <img src="database.png" alt="Database" width="40" height="40" >&nbsp;&nbsp;
     <img src="Mysql.png" alt="Mysql" width="40" height="40" >&nbsp;&nbsp;
+    <img src="git.png" alt="Git" width="40" height="40" >&nbsp;&nbsp;
     <img src="HTML.png" alt="HTML" width="40" height="40" >&nbsp;&nbsp;
     <img src="CSS.png" alt="CSS" width="40" height="40" >&nbsp;&nbsp;
-    <img src="git.png" alt="Git" width="40" height="40" >&nbsp;&nbsp;
+
 </div>
 
 
