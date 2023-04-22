@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
 <h3 align="center">A passionate back-end developer (python/Django)</h3>
 
-- 🔭 I’m currently working on an e-commerce project called **storefront**
+- 🔭 I’m currently working on an e-commerce project called [storefront](https://github.com/usamaalzomor/storefront)
 
 - 🌱 I am currently deepening my understanding of **Django**, **Python**, **DRF**, **MySQL**
 
