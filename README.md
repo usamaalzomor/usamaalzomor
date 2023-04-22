@@ -2,7 +2,7 @@
 
 <div>
     <img src="c.png" alt="C language" width="40" height="40" style=" margin-right: 20px; padding-bottom: 20px;">
-    <img src="python2.png" alt="Python" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
+    <img src="python.jpeg" alt="Python" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
     <img src="django.jpg" alt="Django" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
     <img src="DRF logo.png" alt="DRF" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
     <img src="database.png" alt="Database" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
