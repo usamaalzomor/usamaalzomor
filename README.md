@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![image](download.png =300x300)
+
+<img src="download.png" alt="alt text" width="300" height="300">
+
 <!--
 **usamaalzomor/usamaalzomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
