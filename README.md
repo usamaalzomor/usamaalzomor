@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Django by doing an E-commerce project called storefront
 - 👯 I’m seeking for an internship or a junior role as a Django developer
 - 💬 Ask me about any thing you need, and I promise if I have any information I will till you about
-- 😄 Pronouns: Alzomor OR Usama
 - ⚡ Fun fact: I am a singer but it's something in aside of my work
 
 
