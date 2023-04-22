@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <div>
-    <img src="c.png" alt="C language" width="40" height="40" style=" margin-right: 20px;">&nbsp;&nbsp;
-    <img src="python.jpeg" alt="Python" width="40" height="40" style=" margin-right: 10px;">
-    <img src="django.jpg" alt="Django" width="40" height="40" style=" margin-right: 50px;">
-    <img src="DRF logo.png" alt="DRF" width="40" height="40" style=" margin-right: 10px;">
-    <img src="database.png" alt="Database" width="40" height="40" style=" margin-right: 10px;">
-    <img src="Mysql.png" alt="Mysql" width="40" height="40" style=" margin-right: 10px;">
-    <img src="HTML.png" alt="HTML" width="40" height="40" style=" margin-right: 10px;">
-    <img src="CSS.png" alt="CSS" width="40" height="40" style=" margin-right: 10px;">
-    <img src="git.png" alt="Git" width="40" height="40" style=" margin-right: 10px;">
+    <img src="c.png" alt="C language" width="40" height="40" >&nbsp;&nbsp;
+    <img src="python.jpeg" alt="Python" width="40" height="40" >&nbsp;&nbsp;
+    <img src="django.jpg" alt="Django" width="40" height="40" >&nbsp;&nbsp;
+    <img src="DRF logo.png" alt="DRF" width="40" height="40" >&nbsp;&nbsp;
+    <img src="database.png" alt="Database" width="40" height="40" >&nbsp;&nbsp;
+    <img src="Mysql.png" alt="Mysql" width="40" height="40" >&nbsp;&nbsp;
+    <img src="HTML.png" alt="HTML" width="40" height="40" >&nbsp;&nbsp;
+    <img src="CSS.png" alt="CSS" width="40" height="40" >&nbsp;&nbsp;
+    <img src="git.png" alt="Git" width="40" height="40" >&nbsp;&nbsp;
 </div>
 
 
