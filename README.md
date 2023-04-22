@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-    <img src="c.png" alt="C language" width="40" height="40" style=" margin-right: 50px; padding-bottom: 20px;">
+    <img src="c.png" alt="C language" width="40" height="40" style=" margin: 50px; padding-bottom: 20px;">
     <img src="python.jpeg" alt="Python" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
     <img src="django.jpg" alt="Django" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
     <img src="DRF logo.png" alt="DRF" width="40" height="40" style=" margin-right: 10px; padding-bottom: 20px;">
