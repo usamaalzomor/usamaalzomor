@@ -10,7 +10,7 @@
     <img src="HTML.png" alt="HTML" width="40" height="40" style="float: left; margin-right: 10px; padding-bottom: 20px;">
     <img src="CSS.png" alt="CSS" width="40" height="40" style="float: left; margin-right: 10px; padding-bottom: 20px;">
     <img src="git.png" alt="Git" width="40" height="40" style="float: left; margin-right: 10px; padding-bottom: 20px;">
-<div>
+</div>
 
 <!--
 **usamaalzomor/usamaalzomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
