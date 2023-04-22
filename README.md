@@ -2,7 +2,7 @@
 
 ### I am a Python & Django Developer
 
-___
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
