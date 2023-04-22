@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div>
-    <img src="download.png" alt="alt text" width="40" height="40">
-    <img src="CSS.png" alt="alt text" width="40" height="40">
-    <img src="HTML.png" alt="alt text" width="40" height="40">
+    <img src="download.png" alt="alt text" width="40" height="40" style="float: left; margin-right: 10px; padding-bottom: 20px;">
+    <img src="CSS.png" alt="alt text" width="40" height="40" style="float: left; margin-right: 10px; padding-bottom: 20px;">
+    <img src="HTML.png" alt="alt text" width="40" height="40" style="float: left; margin-right: 10px; padding-bottom: 20px;">
     <img src="DRF logo.png" alt="alt text" width="40" height="40">
     <img src="c.png" alt="alt text" width="40" height="40">
     <img src="database.png" alt="alt text" width="40" height="40">
