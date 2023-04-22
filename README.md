@@ -1,18 +1,17 @@
-### Hi there, Hope you are well
+### Hi there, Hope you are well.
 
 ### I am a Python & Django Developer
 
 ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Django by doing an E-commerce project called storefront
+- 👯 I’m seeking for an internship or a junior role as a Django developer
+- 💬 Ask me about any thing you need, and I promise if I have any information I will till you about
+- 😄 Pronouns: Alzomor OR Usama
+- ⚡ Fun fact: I am a singer but it's something in aside of my work
 
+
+### Languages and Tools:
 <div>
     <img src="c.png" alt="C language" width="40" height="40" >&nbsp;&nbsp;
     <img src="python.jpeg" alt="Python" width="40" height="40" >&nbsp;&nbsp;
