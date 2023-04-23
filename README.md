@@ -5,7 +5,7 @@
 
 - 🌱 Currently I'm deepening my understanding of **Django**, **Python**, **DRF**, **MySQL**
 
-- 👯 I’m looking to collaborate on **servicelink** project
+- 👯 I’m looking to collaborate on a project called **servicelink**
 
 - 💬 Ask me about **Python, Django**
 
