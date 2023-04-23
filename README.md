@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an e-commerce project [storefront](https://github.com/usamaalzomor/storefront)
 
-- 🌱 Currently I'm deepening my understanding of **Django**, **Python**, **DRF**, **MySQL**
+- 🌱 I'm presently deepening my understanding of **Django**, **Python**, **DRF** and **MySQL**
 
 - 👯 Now I'm seeking potential collaborators for a project called **Alzomor ServiceLink**
 
