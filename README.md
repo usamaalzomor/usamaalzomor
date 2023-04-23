@@ -13,7 +13,7 @@
 
 - 📄 Here is my updated CV [https://drive.google.com/file/CV](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing)
 
-- ⚡ Fun fact about me is this [**'I am a singer'**](https://www.facebook.com/100001326958457/videos/3215626085158258/) but this is in aside of my work
+- ⚡ Fun fact about me is this [**'I am an amateur singer'**](https://www.facebook.com/100001326958457/videos/3215626085158258/) but this is in aside of my work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
