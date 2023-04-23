@@ -5,7 +5,7 @@
 
 - 🌱 Currently I'm deepening my understanding of **Django**, **Python**, **DRF**, **MySQL**
 
-- 👯 Now I am seeking potential collaborators for a project called **Alzomor ServiceLink**
+- 👯 Now I'm seeking potential collaborators for a project called **Alzomor ServiceLink**
 
 - 💬 Ask me about **Python, Django**
 
