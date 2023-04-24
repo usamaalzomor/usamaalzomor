@@ -37,7 +37,7 @@
 <a href="https://twitter.com/usama_alzomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usama_alzomor" height="30" width="40" /></a>
 </p>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" width="40" height="40"/> </a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png" width="60" height="40"/> </a>
 
 
 
