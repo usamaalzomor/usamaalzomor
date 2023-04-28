@@ -81,6 +81,11 @@
 
 </div> -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaalzomor&show_icons=true&locale=en&layout=compact" alt="usamaalzomor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaalzomor&show_icons=true&locale=en" alt="usamaalzomor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaalzomor&" alt="usamaalzomor" /></p>
 
 <!--
 **usamaalzomor/usamaalzomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
