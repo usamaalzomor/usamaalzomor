@@ -11,7 +11,7 @@
 
 - 📫 you can reach me on **usama.alzomor@gmail.com**
 
-- 📄 Here is my updated CV [**drive.google.com/file/CV**](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing)
+- 📄 Here is my updated CV [**Usama's CV**](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing)
 
 - 😎 Fun fact about me is this [**'I am an amateur singer'**](https://www.facebook.com/100001326958457/videos/3215626085158258/) but this is in **aside** of my work
 
