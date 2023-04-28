@@ -37,9 +37,7 @@
 <a href="https://twitter.com/usama_alzomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usama_alzomor" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaalzomor&show_icons=true&locale=en" alt="usamaalzomor" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaalzomor&show_icons=true&locale=en&layout=compact" alt="usamaalzomor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaalzomor&show_icons=true&locale=en" alt="usamaalzomor" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaalzomor&show_icons=true&locale=en&layout=compact" alt="usamaalzomor" /></p>
 
 
 
