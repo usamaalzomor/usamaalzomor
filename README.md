@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/usama-alzomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama-alzomor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@osama_zomor2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@osama_zomor2010" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/osama_zomor2010?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@osama_zomor2010" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19070660/usama-alzomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19070660/usama-alzomor" height="30" width="40" /></a>
 <a href="https://fb.com/usamaalzomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usamaalzomor" height="30" width="40" /></a>
 <a href="https://twitter.com/usama_alzomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usama_alzomor" height="30" width="40" /></a>
