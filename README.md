@@ -7,7 +7,7 @@
 
 - 👯 Now I'm seeking potential collaborators for a project called [**ServiceLink**](https://github.com/usamaalzomor/servicelink)
 
-- 💬 Ask me about [**Python**](https://www.python.org/doc/), **Django**(https://docs.djangoproject.com/en/4.2/)
+- 💬 Ask me about [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/)
 
 - 📫 you can reach me on **usama.alzomor@gmail.com**
 
