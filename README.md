@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [**ecommerce**](https://github.com/usamaalzomor/e-commerce)
 
-- 🌱 I'm presently deepening my understanding of **Python**, **Django**, **DRF** and **MySQL**
+- 🌱 I'm presently deepening my understanding of [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/), [**DRF**](https://www.django-rest-framework.org/) and [**MySQL**](https://www.mysql.com/)
 
 - 👯 Now I'm seeking potential collaborators for a project called [**ServiceLink**](https://github.com/usamaalzomor/servicelink)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about [**Python**](https://www.python.org/doc/), **Django**(https://docs.djangoproject.com/en/4.2/)
 
 - 📫 you can reach me on **usama.alzomor@gmail.com**
 
