@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
 <h3 align="center">A passionate back-end developer (python/Django)</h3>
+Here are some highlights of my current projects and coding journey:
 
-- 🔭 I’m currently working on [**ecommerce**](https://github.com/usamaalzomor/e-commerce)
+- 📅 I'm currently doing the **#100DaysOfCode** challenge from June 1, 2023, to September 10, 2023!
+  - 💻 Each day, I'm making commits to my GitHub repositories ([**ecommerce**](https://github.com/usamaalzomor/e-commerce) and [**ServiceLink**](https://github.com/usamaalzomor/servicelink)) as part of the challenge.
+  - 📝 I'm posting daily updates in the commit messages with what I've learned.
+  - 💡 This challenge is helping me to improve my coding skills, learn new technologies, and be more consistent.
 
 - 🌱 I'm presently deepening my understanding of [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/), [**DRF**](https://www.django-rest-framework.org/) and [**MySQL**](https://www.mysql.com/)
 
