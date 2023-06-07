@@ -8,17 +8,17 @@
   - 📝 I'm posting daily updates in the commit messages with what I've learned.
   - 💡 This challenge is helping me to improve my coding skills, learn new technologies, and be more consistent.
 
-- 🌱 I'm presently deepening my understanding of [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/), [**DRF**](https://www.django-rest-framework.org/) and [**MySQL**](https://www.mysql.com/)
+- 🌱 I'm presently deepening my understanding of [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/), [**DRF**](https://www.django-rest-framework.org/) and [**MySQL**](https://www.mysql.com/).
 
-- 👯 Now I'm seeking potential collaborators for a project called [**ServiceLink**](https://github.com/usamaalzomor/servicelink)
+- 👯 Now I'm seeking potential collaborators for a project called [**ServiceLink**](https://github.com/usamaalzomor/servicelink).
 
-- 💬 Ask me about [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/)
+- 💬 Ask me about [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/).
 
-- 📫 you can reach me on **usama.alzomor@gmail.com**
+- 📫 you can reach me on **usama.alzomor@gmail.com**.
 
-- 📄 Here is my updated CV [**Usama's CV**](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing)
+- 📄 Here is my updated CV [**Usama's CV**](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing).
 
-- 😎 Fun fact about me is this [**'I am an amateur singer'**](https://www.facebook.com/100001326958457/videos/3215626085158258/) but this is in **aside** of my work
+- 😎 Fun fact about me is this [**'I am an amateur singer'**](https://www.facebook.com/100001326958457/videos/3215626085158258/) but this is in **aside** of my work.
 
 
 
