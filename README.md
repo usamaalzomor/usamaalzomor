@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
 <h3 align="center">A passionate back-end developer (python/Django)</h3>
 
-##Here are some highlights of my journey:
+<h3 align="left">Here are some highlights of my journey:</h3>
 
 - 📅 I'm currently doing the **#100DaysOfCode** challenge from June 1, 2023, to September 10, 2023!
   - 💻 Each day, I'm making commits to my GitHub repositories ([**ecommerce**](https://github.com/usamaalzomor/e-commerce) and [**ServiceLink**](https://github.com/usamaalzomor/servicelink)) as part of the challenge.
