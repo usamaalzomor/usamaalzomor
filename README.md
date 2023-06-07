@@ -10,7 +10,7 @@
 
 - 🌱 I'm presently deepening my understanding of [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/), [**DRF**](https://www.django-rest-framework.org/) and [**MySQL**](https://www.mysql.com/).
 
-- 👯 Now I'm seeking potential collaborators for a project called [**ServiceLink**](https://github.com/usamaalzomor/servicelink).
+- 👯 Now I'm seeking potential collaborators for implementing the frontend of [**ServiceLink**](https://github.com/usamaalzomor/servicelink) project.
 
 - 💬 Ask me about [**Python**](https://www.python.org/doc/), [**Django**](https://docs.djangoproject.com/en/4.2/).
 
