@@ -3,7 +3,7 @@
 
 <h3 align="left">Here are some highlights of my journey:</h3>
 
-- 📅 I'm currently doing the **#100DaysOfCode** challenge from June 1, 2023, to September 10, 2023!
+- 📅 I'm currently doing the **#100DaysOfCode** challenge from November 1, 2023, to February 10, 2023!
   - 💻 Each day, I'm making commits to my GitHub repositories ([**ecommerce**](https://github.com/usamaalzomor/e-commerce) and [**serviceLink**](https://github.com/usamaalzomor/servicelink)) as part of the challenge.
   - 📝 I'm posting daily updates in the commit messages with what I've learned.
   - 💡 This challenge is helping me to improve my coding skills, learn new technologies, and be more consistent.
@@ -16,7 +16,7 @@
 
 - 📫 you can reach me on **usama.alzomor@gmail.com**.
 
-- 📄 Here is my updated CV [**Usama's CV**](https://drive.google.com/file/d/1ttGjATcDzGP2wqybgfkpUzmCapEJnxGC/view?usp=sharing).
+- 📄 Here is my updated CV [**Usama's CV**](https://drive.google.com/file/d/117ymV6TB7bejz6g6xNFc4uKe_7GFTgvG/view?usp=sharing).
 
 - 😎 Fun fact about me is this [**'I am an amateur singer'**](https://www.facebook.com/100001326958457/videos/3215626085158258/) but this is in **aside** of my work.
 
